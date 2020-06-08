@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "CLAIM_NBR_id": "1",
+            "CLAIM_NBR": "12",
+            "LINE_CTR": "System Architect",
+            "MEMBER_NBR": "$320,800",
+            "GENDER": "2011\/04\/25",
+           
+        },
+        {
+            "CLAIM_NBR_id": "1",
+            "CLAIM_NBR": "23",
+            "LINE_CTR": "System Architect",
+            "MEMBER_NBR": "$320,800",
+            "GENDER": "2011\/04\/25",
+        }
+
+    ]
+}
